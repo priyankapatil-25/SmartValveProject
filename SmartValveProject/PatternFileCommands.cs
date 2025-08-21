@@ -23,7 +23,7 @@ namespace SmartValve
         {
             ValvePatternLibrary.LoadFromFile();
             var ed = Application.DocumentManager.MdiActiveDocument.Editor;
-            ed.WriteMessage("\n Valve patterns loaded from 'C:\\SmartValve\\valve_patterns.json'");
+            ed.WriteMessage("\n Valve pattern loaded from 'C:\\SmartValve\\valve_patterns.json'");
         }
     }
 }
