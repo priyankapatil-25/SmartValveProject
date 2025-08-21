@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartValveGeometry", "SmartValveProject\SmartValveGeometry.csproj", "{A73A5F81-80EC-4AE7-8A3D-A8FAA0F2BACB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A73A5F81-80EC-4AE7-8A3D-A8FAA0F2BACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A73A5F81-80EC-4AE7-8A3D-A8FAA0F2BACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A73A5F81-80EC-4AE7-8A3D-A8FAA0F2BACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A73A5F81-80EC-4AE7-8A3D-A8FAA0F2BACB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F59D1E1D-CB71-44B9-B174-24386CF95746}
+	EndGlobalSection
+EndGlobal
